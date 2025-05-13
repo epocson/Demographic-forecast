@@ -1,7 +1,7 @@
 # Population Forecasting
 
 This project analyzes historical population data from 2015 to 2024 and forecasts population trends for 2025-2030 using statistical modeling.
-
+ARIMA - main 
 You can freely edit this code to extend the features and use other data to forecast.
 
 ## Project Structure
@@ -36,7 +36,7 @@ population_forecasting/
 - numpy
 - matplotlib
 - seaborn
-- catboost (for advanced modeling)
+- catboost (for advanced modeling) for future development
 - scikit-learn
 
 ## Usage
